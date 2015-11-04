@@ -1,0 +1,8 @@
+//
+// Prefix header for all source files of the 'FancyStickiesUsingCoreData' target in the 'FancyStickiesUsingCoreData' project
+//
+
+#ifdef __OBJC__
+#import <Cocoa/Cocoa.h>
+#endif
+
